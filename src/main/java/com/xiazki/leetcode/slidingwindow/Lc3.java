@@ -1,4 +1,4 @@
-package com.xiazki.leetcode;
+package com.xiazki.leetcode.slidingwindow;
 
 import java.util.HashSet;
 import java.util.Set;

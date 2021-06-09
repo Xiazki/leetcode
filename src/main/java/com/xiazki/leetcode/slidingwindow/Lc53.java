@@ -1,4 +1,4 @@
-package com.xiazki.leetcode;
+package com.xiazki.leetcode.slidingwindow;
 
 /**
  * 53. 最大子序和

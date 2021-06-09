@@ -1,4 +1,4 @@
-package com.xiazki.leetcode;
+package com.xiazki.leetcode.doublepoint;
 
 import java.util.Arrays;
 

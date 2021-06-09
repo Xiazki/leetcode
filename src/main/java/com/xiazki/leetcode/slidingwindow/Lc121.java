@@ -1,4 +1,4 @@
-package com.xiazki.leetcode;
+package com.xiazki.leetcode.slidingwindow;
 
 /**
  * 买卖股票的最佳时机
