@@ -23,7 +23,7 @@ public class Lc141 {
         if (head == null){
             return false;
         }
-        ListNode fast = head.next;
+        ListNode fast = head;
         ListNode slow = head;
         while (fast != null) {
 
