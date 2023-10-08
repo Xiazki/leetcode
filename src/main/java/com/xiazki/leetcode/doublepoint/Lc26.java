@@ -35,6 +35,7 @@ public class Lc26 {
 
     public static void main(String[] args) {
         int[] array = new int[]{1,1,1,1,2,2,3};
+        
         int len = new Lc26().removeDuplicates(array);
         System.out.println(len);
         System.out.println(Arrays.toString(array));

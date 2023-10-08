@@ -26,7 +26,7 @@ public class Lc88 {
         if (n == 0) {
             return;
         }
-        int i = 0, j = 0, k = 0;
+        int i = 0, j = 0;
         int[] sorted = new int[m + n];
         int cur;
         while (i < m || j < n) {
